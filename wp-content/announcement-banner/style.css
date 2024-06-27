@@ -1,0 +1,15 @@
+#announcement-banner {
+    background-color: #f8d7da;
+    color: #721c24;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 9999;
+}
+
+#announcement-banner p {
+    margin: 0;
+    padding: 0;
+}
